@@ -13,12 +13,12 @@ In each notebook, the cells, with the exception of pip install, Config, and the 
 To change the parameters, you can edit the Config Cell located before the last cell in each notebook.
 
 # Citations
-@INPROCEEDINGS{10167910,
-  author={Bertalanič, Blaž and Vnučec, Matej and Fortuna, Carolina},   
-  booktitle={2023 International Balkan Conference on Communications and Networking (BalkanCom)},    
-  title={Graph Neural Networks Based Anomalous RSSI Detection},    
-  year={2023},   
-  volume={},   
-  number={},   
-  pages={1-5},   
-  doi={10.1109/BalkanCom58402.2023.10167910}}   
+@ARTICLE{10508580,
+  author={Bertalanič, Blaž and Hribar, Jernej and Fortuna, Carolina},
+  journal={IEEE Open Journal of the Communications Society}, 
+  title={Visibility Graph-Based Wireless Anomaly Detection for Digital Twin Edge Networks}, 
+  year={2024},
+  volume={5},
+  number={},
+  pages={3050-3065},
+  doi={10.1109/OJCOMS.2024.3393853}}
