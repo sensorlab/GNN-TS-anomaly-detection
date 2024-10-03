@@ -22,3 +22,6 @@ To change the parameters, you can edit the Config Cell located before the last c
   number={},
   pages={3050-3065},
   doi={10.1109/OJCOMS.2024.3393853}}
+
+# Funding
+This work was supported by the European Commission NANCY project (No. 101096456)
